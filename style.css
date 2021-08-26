@@ -1,0 +1,31 @@
+.line{
+    width: 70px;
+    height: 7px;
+    background-color: blueviolet;
+    margin: auto;
+}
+body{
+    text-align: center;
+}
+h1{
+    color: crimson;
+}
+#apps{
+background-color: chartreuse;    
+}
+#games{
+    background-color: aqua;
+}
+#chatbot{
+    background-color: darkblue;
+}
+img:hover{
+    transform: scale(0.9);
+}
+.menu{
+    list-style: none;
+    right: 30px;
+    top: 10px;
+    cursor: pointer;
+    position: fixed;
+}
